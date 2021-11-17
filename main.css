@@ -19,8 +19,12 @@ h1 {
   margin-bottom: 20px;
 }
 
-.knight-emoji {
+.knight-emoji1 {
   font-size: 40px;
+}
+
+.knight-emoji2 {
+  font-size: 25px;
 }
 
 a {
